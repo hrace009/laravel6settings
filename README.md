@@ -1,3 +1,8 @@
+[![Latest Stable Version](https://poser.pugx.org/hrace009/laravel6settings/v/stable)](https://packagist.org/packages/hrace009/laravel6settings)
+[![Total Downloads](https://poser.pugx.org/hrace009/laravel6settings/downloads)](https://packagist.org/packages/hrace009/laravel6settings)
+[![Latest Unstable Version](https://poser.pugx.org/hrace009/laravel6settings/v/unstable)](https://packagist.org/packages/hrace009/laravel6settings)
+[![License](https://poser.pugx.org/hrace009/laravel6settings/license)](https://packagist.org/packages/hrace009/laravel6settings)
+
 # Laravel6Settings
 Laravel 6.x Persistent Settings (Database + Cache)  
 
