@@ -1,0 +1,33 @@
+{
+    "name": "hrace009/laravel6settings",
+    "description": "Laravel 6 Persistent Settings",
+    "keywords": [
+        "laravel",
+        "settings",
+        "persistent"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Harris Marfel",
+            "email": "hrace009@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2",
+        "illuminate/support": "6.*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.0",
+        "illuminate/database": "6.*",
+        "illuminate/events": "6.*"
+    },
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ],
+        "psr-4": {
+            "hrace009\\Laravel6Settings\\": "src/"
+        }
+    }
+}
