@@ -22,14 +22,14 @@ Require this package with composer ([Packagist](https://packagist.org/packages/h
 or modify your `composer.json`:
    
        "require": {
-          "hrace009/laravel6settings": "1.*"
+          "hrace009/laravel6settings": "^1.*"
        }
        
 then run `composer update`:
 
 After updating composer, Register the ServiceProvider to the `providers` array in `config/app.php`
 
-    'hrace009\Laravel6Settings\SettingsServiceProvider',
+    hrace009\Laravel6Settings\SettingsServiceProvider::class,
     
 Add an alias for the facade to `aliases` array in  your `config/app.php`
 
