@@ -1,4 +1,10 @@
 <?php
+/**
+ * @author Harris Marfel <hrace009@gmail.com>
+ * @link https://www.hrace009.com
+ * @copyright Copyright (c) 2020.
+ */
+
 namespace hrace009\Laravel6Settings;
 
 use Illuminate\Database\DatabaseManager;
@@ -22,14 +28,14 @@ class Settings
     /**
      * Database manager instance
      *
-     * @var \Illuminate\Database\DatabaseManager
+     * @var DatabaseManager
      */
     protected $database;
 
     /**
      * Cache
      *
-     * @var \hrace009\Laravel6Settings\Cache
+     * @var Cache
      */
     protected $cache;
 

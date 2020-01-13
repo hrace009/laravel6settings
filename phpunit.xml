@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ @author Harris Marfel <hrace009@gmail.com>
+  ~ @link https://www.hrace009.com
+  ~ @copyright Copyright (c) 2020.
+  -->
+
 <phpunit backupGlobals="false"
          backupStaticAttributes="false"
          bootstrap="tests/bootstrap.php"

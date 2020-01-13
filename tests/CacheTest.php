@@ -1,4 +1,10 @@
 <?php
+/**
+ * @author Harris Marfel <hrace009@gmail.com>
+ * @link https://www.hrace009.com
+ * @copyright Copyright (c) 2020.
+ */
+
 use hrace009\Laravel6Settings\Cache;
 
 class CacheTest extends PHPUnit_Framework_TestCase
